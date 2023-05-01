@@ -7,7 +7,7 @@ Installs specific version of Julia.
 
 ```json
 "features": {
-    "ghcr.io/eitsupi/devcontainer-features/julia:0": {}
+    "ghcr.io/wearpants/devcontainer-features-eitsupi/julia:0": {}
 }
 ```
 
@@ -17,6 +17,12 @@ Installs specific version of Julia.
 |-----|-----|-----|-----|
 | version | Select version of Julia. | string | latest |
 | allowNonStableVersion | If ture, the non-stable versions are candidates for installation. For example, the latest might be the latest alpha, beta, or RC version. | boolean | false |
+
+## Customizations
+
+### VS Code Extensions
+
+- `julialang.language-julia`
 
 <!-- markdownlint-disable MD041 -->
 
@@ -50,4 +56,4 @@ If the `allowNonStableVersion` option is not explicitly set to `true`, only the 
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/eitsupi/devcontainer-features/blob/main/src/julia/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/wearpants/devcontainer-features-eitsupi/blob/main/src/julia/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

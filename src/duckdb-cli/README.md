@@ -7,7 +7,7 @@ DuckDB is an in-process SQL OLAP database management system.
 
 ```json
 "features": {
-    "ghcr.io/eitsupi/devcontainer-features/duckdb-cli:1": {}
+    "ghcr.io/wearpants/devcontainer-features-eitsupi/duckdb-cli:1": {}
 }
 ```
 
@@ -49,4 +49,4 @@ Currently, only supports signed extensions.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/eitsupi/devcontainer-features/blob/main/src/duckdb-cli/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/wearpants/devcontainer-features-eitsupi/blob/main/src/duckdb-cli/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
