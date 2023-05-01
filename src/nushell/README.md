@@ -7,7 +7,7 @@ Installs Nushell.
 
 ```json
 "features": {
-    "ghcr.io/eitsupi/devcontainer-features/nushell:0": {}
+    "ghcr.io/wearpants/devcontainer-features-eitsupi/nushell:0": {}
 }
 ```
 
@@ -31,4 +31,4 @@ Installs Nushell.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/eitsupi/devcontainer-features/blob/main/src/nushell/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/wearpants/devcontainer-features-eitsupi/blob/main/src/nushell/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
