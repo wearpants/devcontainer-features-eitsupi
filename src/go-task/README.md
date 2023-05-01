@@ -7,7 +7,7 @@ Installs Task, a task runner / simpler Make alternative.
 
 ```json
 "features": {
-    "ghcr.io/eitsupi/devcontainer-features/go-task:1": {}
+    "ghcr.io/wearpants/devcontainer-features-eitsupi/go-task:1": {}
 }
 ```
 
@@ -16,6 +16,12 @@ Installs Task, a task runner / simpler Make alternative.
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
 | version | Select version of Task. | string | latest |
+
+## Customizations
+
+### VS Code Extensions
+
+- `task.vscode-task`
 
 <!-- markdownlint-disable MD041 -->
 
@@ -30,4 +36,4 @@ Installs Task, a task runner / simpler Make alternative.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/eitsupi/devcontainer-features/blob/main/src/go-task/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/wearpants/devcontainer-features-eitsupi/blob/main/src/go-task/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

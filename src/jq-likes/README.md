@@ -7,7 +7,7 @@ Installs jq and jq like command line tools (yq, gojq).
 
 ```json
 "features": {
-    "ghcr.io/eitsupi/devcontainer-features/jq-likes:1": {}
+    "ghcr.io/wearpants/devcontainer-features-eitsupi/jq-likes:1": {}
 }
 ```
 
@@ -48,4 +48,4 @@ The versions of yq and gojq can be specified by version number or `"latest"` as 
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/eitsupi/devcontainer-features/blob/main/src/jq-likes/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/wearpants/devcontainer-features-eitsupi/blob/main/src/jq-likes/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

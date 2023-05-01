@@ -9,7 +9,7 @@ Installs just, just is a handy way to save and run project-specific commands on 
 
 ```json
 "features": {
-    "ghcr.io/eitsupi/devcontainer-features/just:0": {}
+    "ghcr.io/wearpants/devcontainer-features-eitsupi/just:0": {}
 }
 ```
 
@@ -37,4 +37,4 @@ This Feature was deprecated in favor of
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/eitsupi/devcontainer-features/blob/main/src/just/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/wearpants/devcontainer-features-eitsupi/blob/main/src/just/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
